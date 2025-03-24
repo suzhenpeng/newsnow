@@ -1,6 +1,5 @@
 name = "newsnow"  # 你的项目名称
 pages_build_output_dir = "dist/output/public"
-type = "javascript"
 
 [[d1_databases]]
 binding = "NEWSNOW_DB"
